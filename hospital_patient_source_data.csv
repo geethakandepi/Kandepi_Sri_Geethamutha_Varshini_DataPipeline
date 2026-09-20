@@ -1,0 +1,11 @@
+patient_id,name,age,gender,department,appointment_id,appointment_date,arrival_time,consultation_time,hemoglobin_result,heart_rate,steps,doctor_note,follow_up_required
+P001,Anita,45,Female,Cardiology,A001,2026-09-15,09:00,09:35,13.2,82,4200,Routine follow-up,False
+P002,Ravi,32,Male,General Medicine,A002,2026-09-15,09:10,09:25,14.1,76,6500,Stable condition,False
+P003,Meena,67,Female,Cardiology,A003,2026-09-15,09:20,10:15,10.2,98,1800,Needs additional observation,True
+P004,Kiran,54,Male,Neurology,A004,2026-09-15,09:30,10:05,12.8,88,3200,Neurology review,True
+P005,Sita,29,Female,General Medicine,A005,2026-09-15,09:40,09:55,13.5,74,7200,Routine consultation,False
+P006,Arjun,72,Male,Cardiology,A006,2026-09-15,10:00,11:20,9.8,105,1200,Additional monitoring required,True
+P007,Latha,41,Female,Neurology,A007,2026-09-15,10:15,10:50,12.4,80,4500,Routine follow-up,False
+P008,Venkat,60,Male,General Medicine,A008,2026-09-15,10:30,11:00,11.6,92,2300,Additional observation,True
+P009,Divya,36,Female,Cardiology,A009,2026-09-15,10:45,11:05,13.0,78,5600,Stable condition,False
+P010,Mohan,50,Male,General Medicine,A010,2026-09-15,11:00,11:45,12.0,90,2900,Routine consultation,False
